@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nuitsukera Aka ZyRox
 
-<!--
-**nuitsukera/nuitsukera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nuitsukera&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
+## Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nuitsukera&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Streak
+
+![GitHub Stats](https://streak-stats.demolab.com?user=nuitsukera&theme=dark&hide_border=true)
+
+## Honorable mention
+
+![Marsey and Jesus](https://i.watchpeoplelive.tv/e/marseyandjesus.webp)
