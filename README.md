@@ -9,7 +9,3 @@
 ## Streak
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=nuitsukera&theme=dark&hide_border=true)
-
-## Honorable mention
-
-![Marsey and Jesus](https://i.watchpeoplelive.tv/e/marseyandjesus.webp)
