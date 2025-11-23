@@ -74,7 +74,7 @@ export default function Background({ children }: BackgroundProps) {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.2, duration: 0.8 }}
               >
-                I wanna just kms
+                I just want to kms
               </motion.h2>
             </motion.div>
           </motion.div>
